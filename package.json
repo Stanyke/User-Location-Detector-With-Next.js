@@ -1,0 +1,32 @@
+{
+  "name": "user-location-detector-with-next.js-and-external-location-api",
+  "version": "1.0.0",
+  "description": "This is a Next.js web application that detects user's current location and provides a few details gotten from the analysis with the help of an external Location API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stanyke/User-Location-Detector-With-Next.js-And-External-Location-API.git"
+  },
+  "keywords": [
+    "Next.js",
+    "API",
+    "Location"
+  ],
+  "author": "Stanley Chibuike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stanyke/User-Location-Detector-With-Next.js-And-External-Location-API/issues"
+  },
+  "homepage": "https://github.com/Stanyke/User-Location-Detector-With-Next.js-And-External-Location-API#readme",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.3.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
