@@ -5,7 +5,7 @@ const Index = (props) =>
 (
     <Layout>
         <div>
-            <h2>Location Detector With Next.js</h2>
+            <center><h2>Location Detector With Next.js</h2></center>
             <div class="list-group">
                 <a class="list-group-item list-group-item-action flex-column align-items-start active">
                     <div class="d-flex w-100 justify-content-between">
